@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab787a77-eb48-4fd8-b889-a177ae26b2fa" name="Default" comment="eureka server">
+    <list default="true" id="ab787a77-eb48-4fd8-b889-a177ae26b2fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/linkwe/EurekaServerApplication.java" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/linkwe/EurekaServerApplication.java" />
     </list>
@@ -811,12 +811,12 @@
       <workItem from="1516334020982" duration="9012000" />
       <workItem from="1516588191491" duration="1902000" />
       <workItem from="1516753822609" duration="10075000" />
-      <workItem from="1516840428848" duration="4040000" />
+      <workItem from="1516840428848" duration="4094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58515000" />
+    <option name="totallyTimeSpent" value="58569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1924" height="1047" extended-state="0" />
