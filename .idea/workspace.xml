@@ -811,12 +811,20 @@
       <workItem from="1516334020982" duration="9012000" />
       <workItem from="1516588191491" duration="1902000" />
       <workItem from="1516753822609" duration="10075000" />
-      <workItem from="1516840428848" duration="4094000" />
+      <workItem from="1516840428848" duration="4202000" />
     </task>
+    <task id="LOCAL-00001" summary="eureka server">
+      <created>1516871311928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516871311928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58569000" />
+    <option name="totallyTimeSpent" value="58677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1924" height="1047" extended-state="0" />
